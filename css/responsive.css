@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @media (max-width: 1170px) {
 	/*header*/
 	nav {
@@ -113,8 +120,14 @@
 		margin-bottom: 10px;
 	}
 	.images-div {
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
-	flex-direction: column;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	}
 }
 @media (max-width: 650px) {
 	.header-wrapper {
@@ -302,7 +315,9 @@
 		padding: 20px 0;
 	}
 	.section1-div1 {
-		flex: 85%;
+		-webkit-box-flex: 85%;
+		    -ms-flex: 85%;
+		        flex: 85%;
 	}
 	.purple-bg {
 		width: 32px;
