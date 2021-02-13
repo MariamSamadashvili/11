@@ -145,13 +145,13 @@ li:nth-child(6) {
 }
 .img1 {
 	width: 48.5%;
-	-webkit-filter: brightness(0.85) contrast(95%);
-	        filter: brightness(0.85) contrast(95%);
+	-webkit-filter: contrast(90%);
+	        filter: contrast(90%);
 }
 .img2 {
 	width: 100%;
-	-webkit-filter: brightness(0.85);
-	        filter: brightness(0.85);
+	-webkit-filter: brightness(0.9);
+	        filter: brightness(0.9);
 }
 .images-div {
 	display: -webkit-box;
