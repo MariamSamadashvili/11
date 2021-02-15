@@ -237,19 +237,16 @@
 		text-align: center;
 	}
 	.section1-h1 {
-		font-size: 18px;
 		margin-top: 4px;
 		margin-bottom: 5px;
 	}
 	.section1-p1 {
 		margin-bottom: 5px;
-		font-size: 10px;
 	}
 	.section1-p2 {
 		display: none;
 	}
 	.read-more {
-		font-size: 8px;
 		padding: 4px 10px;
 		width: 80px;
 		margin: 0 auto;
@@ -266,7 +263,6 @@
 		padding: 35px 0;
 	}
 	.section2-h1 {
-		font-size: 18px;
 		margin-top: 7px;
 		margin-bottom: 20px;
 	}
@@ -279,7 +275,6 @@
 		height: 18px;
 	}
 	.section2-h3 {
-		font-size: 8px;
 		margin-top: 10px;
 	}
 	.section2-divs {
@@ -300,7 +295,7 @@
 	.section1-div1 {
 		text-align: center;
 		margin-bottom: 15px;
-		margin-right: 0px;
+		padding-right: 0px;
 	}
 	.section-2 {
 		text-align: center;
@@ -314,12 +309,8 @@
 	.header-h1 {
 		padding-top: 65px;
 	}
-	.section1-h5, .section2-h5 {
-		font-size: 8px;
-	}
 	.section1-p1 {
 		margin-bottom: 4px;
-		font-size: 9px;
 	}
 	.read-more {
 		font-size: 7px;
@@ -358,11 +349,7 @@
 		padding-top: 10px;
 		padding-bottom: 40px;
 	}
-	.section1-h1 {
-		font-size: 13px;
-	}
 	.section2-h1 {
-		font-size: 13px;
 		margin-top: 5px;
 		margin-bottom: 13px;
 	}
@@ -379,12 +366,8 @@
 	.section2-wrapper {
 		padding: 12px 0;
 	}
-	.section1-h5, .section2-h5 {
-		font-size: 7px;
-	}
 	.section1-p1 {
 		margin-bottom: 3px;
-		font-size: 8px;
 	}
 	.read-more {
 		font-size: 6px;
@@ -398,9 +381,6 @@
 	}
 	.hotel {
 		height: 12px;
-	}
-	.section2-h3 {
-		font-size: 6px;
 	}
 	.section2-div {
 		padding: 5px 5px;
